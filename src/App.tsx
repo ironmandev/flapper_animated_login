@@ -1,5 +1,5 @@
 import React, { useRef } from 'react'
-import { Route, BrowserRouter, useHistory, useLocation } from 'react-router-dom'
+import { Route, useHistory, useLocation } from 'react-router-dom'
 import { CSSTransition } from 'react-transition-group'
 import routes from './routes'
 
